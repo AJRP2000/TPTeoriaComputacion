@@ -19,13 +19,13 @@ def test():
     data = np.zeros(cantidad_puntos_prueba)
     data[::tiempo_entre_puntos] = magnitud_prueba
 
-    # Calculate the DFT
+    # Calcular la DFT
     tiempo_inicio = time.time()
     resultado = manual_dft(data)
     tiempo_fin = time.time()
     duracion_funcion = tiempo_fin - tiempo_inicio
 
-    # Print the resultado
+    # Print el resultado
     print("Tiempo de la transformada en segundos: " + str(duracion_funcion))
     #print("Resultado de la transformada:")
     #print(resultado)

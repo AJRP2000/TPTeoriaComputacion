@@ -42,7 +42,7 @@ print("Tiempo elapsado en segundos para dft usando el metodo recursivo de Cooley
 #print(resultado_manual)
 #print("//////////////////////////////////////////")
 #print(resultado_par_impar)
-#rint("//////////////////////////////////////////")
+#print("//////////////////////////////////////////")
 #print(resultado_par_impar_complejo)
 #print("//////////////////////////////////////////")
 #print(resultado_cooley)

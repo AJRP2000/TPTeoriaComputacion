@@ -1,3 +1,3 @@
 # TPTeoriaComputacion
 
-Este repositorio contiene el código y la documentación para el trabajo de fin de materia de Teoria de Computacion que explora y compara dos implementaciones diferentes de la Transformada Rápida de Fourier (FFT) en Python: la FFT original y la FFT dividiendo los valores en pares e impares. El objetivo del trabajo es examinar la diferencia en complejidad y eficiencia entre estas dos técnicas.
+Este repositorio contiene el código y la documentación para el trabajo de fin de materia de Teoria de Computacion que explora y compara cuatro implementaciones diferentes de la Transformada de Fourier (DFT) en Python: la DFT original y la DFT dividiendo los valores en pares e impares, la DFT diviendo los valores en pares e impares y aprovechando la periodicidad del exponencial de euler, y el algoritmo de Cooley Tukey FFT. El objetivo del trabajo es examinar la diferencia en complejidad y eficiencia entre estas dos técnicas.

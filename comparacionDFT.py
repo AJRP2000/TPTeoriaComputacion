@@ -6,7 +6,7 @@ from testParImpar import dft_separando_pares_impares
 from testParImparComplejo import dft_complejo_pares_impares
 
 
-# Example data
+# Data de Ejemplo
 TIEMPO_ENTRE_IMPULSOS = 1
 MAGNITUD_TREN = 1
 CANTIDAD_DE_PUNTOS = 16**3

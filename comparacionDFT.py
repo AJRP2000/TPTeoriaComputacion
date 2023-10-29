@@ -9,7 +9,7 @@ from testParImparComplejo import dft_complejo_pares_impares
 # Data de Ejemplo
 TIEMPO_ENTRE_IMPULSOS = 1
 MAGNITUD_TREN = 1
-CANTIDAD_DE_PUNTOS = 16**3
+CANTIDAD_DE_PUNTOS = 2**12
 data = np.zeros(CANTIDAD_DE_PUNTOS)
 data[::TIEMPO_ENTRE_IMPULSOS] = MAGNITUD_TREN
 

@@ -1,5 +1,7 @@
 # TPTeoriaComputacion
 
+Para el uso de este repositorio es necesario instalar la libreria numpy.
+
 Este repositorio contiene el código y la documentación para el trabajo de fin de materia de Teoria de Computacion que explora y compara cuatro implementaciones diferentes de la Transformada de Fourier (DFT) en Python: 
 1. La DFT original (archivo: testManual.py)
 2. La DFT dividiendo los valores en pares e impares (archivo: testParImpar.py)
